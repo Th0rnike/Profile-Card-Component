@@ -9,11 +9,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot 2022-11-01 at 01-13-29 Profile card component](https://user-images.githubusercontent.com/116254117/199111810-660c8809-3c0b-46dc-8fba-cb6ee472e5b6.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://github.com/Th0rnike/Profile-Card-Component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
